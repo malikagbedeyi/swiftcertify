@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/swiftcertify/static/css/main.e23e6efc.css",
+    "main.js": "/swiftcertify/static/js/main.9910521d.js",
+    "static/js/453.c9f4795f.chunk.js": "/swiftcertify/static/js/453.c9f4795f.chunk.js",
+    "static/media/brows.MP4": "/swiftcertify/static/media/brows.b88edfe97f623311b594.MP4",
+    "static/media/img11.png": "/swiftcertify/static/media/img11.eb6af3a4688a2cb15565.png",
+    "static/media/img1.png": "/swiftcertify/static/media/img1.b478308ceb1c93a62c2e.png",
+    "static/media/img6.png": "/swiftcertify/static/media/img6.d2a6a015f6306a1a73d3.png",
+    "static/media/img2.png": "/swiftcertify/static/media/img2.9146d78715918c0dfe22.png",
+    "static/media/pexels-03.jpeg": "/swiftcertify/static/media/pexels-03.db3c488011e3d5c45c88.jpeg",
+    "static/media/pexels-04.jpeg": "/swiftcertify/static/media/pexels-04.65bb6c8c53ece692b327.jpeg",
+    "static/media/career.jpg": "/swiftcertify/static/media/career.d99b7179246cc0856960.jpg",
+    "static/media/img34.jpg": "/swiftcertify/static/media/img34.df15e2ac24a025b541f7.jpg",
+    "static/media/blog-img3.jpg": "/swiftcertify/static/media/blog-img3.0604b5d269b805220a77.jpg",
+    "static/media/img16.png": "/swiftcertify/static/media/img16.a540d7b324c04ccdcbcb.png",
+    "static/media/img29.png": "/swiftcertify/static/media/img29.c1aa1f9767190db72c55.png",
+    "static/media/pexels-02.webp": "/swiftcertify/static/media/pexels-02.1a6f68f19713f41119a5.webp",
+    "static/media/pexels-01.jpeg": "/swiftcertify/static/media/pexels-01.6fc99c0fc89a0593c27d.jpeg",
+    "static/media/visual-img.webp": "/swiftcertify/static/media/visual-img.d0b5ff799510532e3e92.webp",
+    "static/media/visual-img2.avif": "/swiftcertify/static/media/visual-img2.625f73578ef96c5e5532.avif",
+    "static/media/pexels-06.avif": "/swiftcertify/static/media/pexels-06.8616b47183e53dd8a854.avif",
+    "static/media/img3.png": "/swiftcertify/static/media/img3.5515cb79ed7c5c297a5f.png",
+    "static/media/banner-pattern.png": "/swiftcertify/static/media/banner-pattern.fdc73793979dbb8dac35.png",
+    "static/media/visual-img4.webp": "/swiftcertify/static/media/visual-img4.08109d64661d6eaffccf.webp",
+    "static/media/img30.png": "/swiftcertify/static/media/img30.905f73b4310f1e2fdc11.png",
+    "static/media/visual-img5.avif": "/swiftcertify/static/media/visual-img5.b70bac44a955d65ca435.avif",
+    "static/media/mix-logo.PNG": "/swiftcertify/static/media/mix-logo.86428d38b33e9dc1891d.PNG",
+    "static/media/white-logo.PNG": "/swiftcertify/static/media/white-logo.f27d96404c2954949f96.PNG",
+    "static/media/slick.svg": "/swiftcertify/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/swiftcertify/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/swiftcertify/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/swiftcertify/index.html",
+    "static/media/slick.woff": "/swiftcertify/static/media/slick.295183786cd8a1389865.woff",
+    "main.e23e6efc.css.map": "/swiftcertify/static/css/main.e23e6efc.css.map",
+    "main.9910521d.js.map": "/swiftcertify/static/js/main.9910521d.js.map",
+    "453.c9f4795f.chunk.js.map": "/swiftcertify/static/js/453.c9f4795f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e23e6efc.css",
+    "static/js/main.9910521d.js"
+  ]
+}
