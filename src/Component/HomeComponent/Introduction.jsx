@@ -73,8 +73,8 @@ const Introduction = () => {
                         <div class="col-md-6">
                            <div class="callback-content">
                               <div class="sub-title">CHOOSE YOUR DEVICE PLATFORM</div>
-                              <h2 class="section-title">Checkout Our Appa</h2>
-                              <p>Et optio praesent et! Eligendi ab, irure impedit rhoncus, doloremque! Pretium nobis nobis modi ullamco.</p>
+                              <h2 class="section-title">Checkout our blog</h2>
+                              <p>Get regularcurrent trends in Cybersecurity updates on the world of IT GOVERNANCE RISK AND COMPLIANCE as well as</p>
                               <div class="about-btn-list">
                               </div>
                            </div>

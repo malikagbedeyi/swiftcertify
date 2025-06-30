@@ -41,9 +41,9 @@ const settings = {
                   <div class="section-heading text-center">
                      <div class="row">
                         <div class="col-lg-8 offset-lg-2">
-                           <div class="sub-title">CHECKOUT APP PAGE</div>
-                           <h2 class="section-title">Our App Screenshots</h2>
-                           <p>Et optio praesent et! Eligendi ab, irure impedit rhoncus, doloremque! Pretium nobis nobis modi ullamco excepturi recusandae et! Nec scelerisque, natus gravida.</p>
+                           {/* <div class="sub-title">CHECKOUT APP PAGE</div> */}
+                           <h2 class="section-title"> OUR SERVICES</h2>
+                           <p>Choose SwiftCertify for a partnership that goes beyond consultancy but one that ensures the resilience of your digital infrastructure and enhances your organization's capability to thrive in an ever-evolving digital landscape.</p>
                         </div>
                      </div>
                   </div>
