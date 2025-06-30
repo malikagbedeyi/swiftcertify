@@ -1,0 +1,111 @@
+@mixin mobile {
+    @media screen and (max-width:580px) {
+        @content;
+    }
+}
+@mixin tablet {
+    @media screen and (max-width:980px) {
+        @content;
+    }
+}
+@mixin Responsive($breakpoint) {
+    @media screen and (max-width: $breakpoint) {
+      @content;
+    }
+  }
+@mixin laptop {
+    @media screen and (max-width:1190px) {
+        @content;
+    }
+}
+@mixin Destop {
+    @media screen and (max-width:1440px) {
+        @content;
+    }
+}
+@mixin FullHd {
+    @media screen and (max-width:2784px) {
+        @content;
+    }
+}
+@keyframes dropdown {
+    0% {
+      transform: translateY(-30%);
+      opacity: 0;
+    }
+    100% {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+@keyframes zoomBig {
+    0% {
+      transform: translate(-50%, -50%) scale(0.6);
+      opacity: 0.7;
+     // border-width: 2px;
+     // border: 2px;
+    }
+    100% {
+      transform: translate(-50%, -50%) scale(1.5);
+     opacity: 0;
+     // border-width: 2px;
+    //  border: 2px;
+    }
+  }
+  *{
+    margin:0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+      font-family: "Poppins", sans-serif;
+}
+.video{
+.video-section{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 99;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .video-shadow{
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        opacity: 0.6;
+        background: #000;
+    }
+    .video-content{
+        transition: max-height 0.6s ease, opacity 0.6s ease;
+        position: relative;
+        z-index: 100;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        margin: auto;
+        .delete-box{
+            display: flex;
+            justify-content: flex-end;
+            cursor: pointer;
+            svg{
+              width: 1.4vw;
+              height: 1.4vw;
+               @include Destop{
+                width: 30px;
+              height: 30px;
+                }
+              }
+           }
+          .video-player {
+            width: 100%;
+            max-width: 700px;
+            border-radius: 15px;
+            margin: auto;
+          }
+          
+    }
+}
+}

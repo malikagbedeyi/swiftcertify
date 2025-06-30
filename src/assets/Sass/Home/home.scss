@@ -1,0 +1,62 @@
+@mixin mobile {
+    @media screen and (max-width:580px) {
+        @content;
+    }
+  }
+  @mixin tablet {
+    @media screen and (max-width:980px) {
+        @content;
+    }
+  }
+  @mixin Responsive($breakpoint) {
+    @media screen and (max-width: $breakpoint) {
+      @content;
+    }
+  }
+  @mixin laptop {
+    @media screen and (max-width:1190px) {
+        @content;
+    }
+  }
+  @mixin Destop {
+    @media screen and (max-width:1440px) {
+        @content;
+    }
+  }
+  @mixin FullHd {
+    @media screen and (max-width:2784px) {
+        @content;
+    }
+  }
+  @keyframes dropdown {
+    0% {
+      transform: translateY(-30%);
+      opacity: 0;
+    }
+    100% {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+  *{
+    margin:0;
+    padding: 0;
+    list-style: none;
+      font-family: "Poppins", sans-serif;
+  }
+  a{
+    text-decoration: none;
+  }
+  
+.home{
+
+        font-size: 15px;
+        color: #686868;
+        background-color: #ffffff;
+        font-family: "Poppins", sans-serif;
+        font-weight: normal;
+        font-style: normal;
+        line-height: 1.6;
+        word-wrap: break-word;
+    
+}
