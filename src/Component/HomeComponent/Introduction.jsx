@@ -52,7 +52,7 @@ const Introduction = () => {
                            </div>
                         </div>
                 </div>
-                <div className="introduction-box-content col-lg-6">
+                <div className="introduction-box-content right-image col-lg-6">
                     <figure>
                         <img src={img2} alt="" />
                     </figure>

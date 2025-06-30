@@ -58,6 +58,8 @@
             padding-left: 15px;
             padding-right: 15px;
             .introduction-box{
+              .right-image{
+              }
             .introduction-box-content{
                 .home-about-content{
                     padding-top: 60px;
@@ -164,8 +166,19 @@
                 }
                 }
               figure{
+                margin-top: 10%;
                 position: relative;
                 z-index: 1;
+                width: 100%;
+                height: 100%;
+                display: flex;
+                align-items: center;
+                float: right;
+                justify-content: right;
+                img{
+                  width: 100%;
+                  height: 100%;
+                }
                 &::before {
                   content: "";
                   background-image: url(../../Images/img3.png);

@@ -40,8 +40,8 @@ const Navbar = () => {
                 <div className="right-wrapper">
                     <div className="wrapper-menu">
                         <ul>
-                            <li><a href="/">Home</a></li>
-                            <li><a href="/#about">about us</a></li>
+                            <li><a href="#/">Home</a></li>
+                            <li><a href="#/about">about us</a></li>
                             <li className="handleSubmenu"><a href="">Services</a>
                             <ul className="submenu">
                               <li><a href="">Cloud Advisory Services</a></li>
@@ -50,7 +50,7 @@ const Navbar = () => {
                               <li><a href="">Cybersecurity Operations and Support</a></li>
                             </ul>
                             </li>
-                            <li><a href="/#career">Careers</a></li>
+                            <li><a href="#/career">Careers</a></li>
                             <li><a href="">Contact</a></li>
                         </ul>    
                     </div>
