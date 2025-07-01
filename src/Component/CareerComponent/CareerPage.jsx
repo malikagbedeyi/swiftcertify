@@ -7,11 +7,13 @@ const CareerPage = () => {
     const [collapse2, setcollapse2] = useState(false);
     const [collapse3, setcollapse3] = useState(false);
 
-    const [tab, setTab] = useState(null);
+    const [tab, setTab] = useState(1); 
 
-    const handleTab = (index) => {
-        setTab(index === tab ? null : index);
-    };
+const handleTab = (index) => {
+  if (index !== tab) {
+    setTab(index);
+  }
+};
   
     const handlecollapse = () => {
         setcollapse(!collapse)
@@ -31,6 +33,7 @@ const CareerPage = () => {
 
   return (
     <div className='career'> 
+    .  <div className="career-detail-section">
       <div class="career-detail-inner">
                   <div class="container">
                      <div class="row">
@@ -67,7 +70,7 @@ const CareerPage = () => {
                                              Job Description
                                           </a>
                                        </li>
-                                       <li  onClick={() => handleTab(2)}  className={`nav-item ${tab === 2 ? 'active-head' : 'inActive'}`}>
+                                       <li  onClick={() => handleTab(2)}  className={`nav-item ${tab === 2 ? 'active-head ' : 'inActive'}`}>
                                           <a  class="nav-link">
                                              Experience &amp; Overview
                                           </a>
@@ -200,7 +203,8 @@ const CareerPage = () => {
                      </div>
                   </div>
                </div>
-    </div>
+               <div className="right-background-pattern"></div>
+    </div></div>
   )
 }
 

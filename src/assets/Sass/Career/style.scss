@@ -53,7 +53,9 @@
     font-weight: normal;
     font-style: normal;
     line-height: 1.6;
-
+    .career-detail-section {
+        position: relative;
+        z-index: 1;
     .career-detail-inner{
         padding:100px 0;
         .container{
@@ -61,23 +63,6 @@
             padding-left: 15px;
             padding-right: 15px;
         
-    .career-detail-section {
-        position: relative;
-        z-index: 1;
-    }
-        .right-background-pattern {
-            background-image: url(../../Images/img29.png);
-            background-repeat: no-repeat;
-            background-position: center right;
-            background-size: contain;
-            position: absolute;
-            width: 100%;
-            height: 100%;
-            left: 0;
-            top: 0;
-            opacity: 0.07;
-            z-index: -1;
-        }
         .career-detail-container {
             .job-description {
                 background-color: #FF9222;
@@ -131,17 +116,13 @@
                           .nav-link{
                             animation: fade .8s;
                             transition: .8s;
-                            background-color: #fff;
-                            border-color: #dee2e6 #dee2e6 #fff;
-                            border-bottom: none;
+                            background: inherit;
+                            background: #fff;
+                            border-top: 1px  solid #dee2e6;
+                            border-left: 1px  solid #dee2e6;
+                            border-right: 1px  solid #dee2e6;
                             overflow: hidden;
                         color: #FF9222;
-                    }
-                    }
-                    .nav-item.inActive{
-                          .nav-link{
-                         //   border: none;
-                      //  color: #111111;
                     }
                     }
                     .nav-item{
@@ -158,12 +139,11 @@
                         border-radius: 0;
                         padding: 20px 25px;
                         margin-bottom: -1px;
-                        background: 0 0;
+                       background: 0 0;
                         border: 1px solid transparent;
                         display: block;
                         text-decoration: none;
-                      //  transition: .4s ease-in-out;
-                       // transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+
                     }
                   } 
                 }
@@ -178,6 +158,7 @@
                         border: none;
                         position: relative;
                         flex-direction: column;
+                        overflow:hidden;
                         min-width: 0;
                         word-wrap: break-word;
                         background-color: #fff;
@@ -432,5 +413,19 @@
             }
         }
     }
+}
+.right-background-pattern {
+    background-image: url(../../Images/img29.png);
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size: contain;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    opacity: 0.07;
+    z-index: -1;
+}
 }
 }
