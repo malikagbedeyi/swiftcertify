@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/swiftcertify/static/css/main.957f6731.css",
-    "main.js": "/swiftcertify/static/js/main.7ac88186.js",
+    "main.css": "/swiftcertify/static/css/main.221c0290.css",
+    "main.js": "/swiftcertify/static/js/main.91a87bd3.js",
     "static/js/453.c9f4795f.chunk.js": "/swiftcertify/static/js/453.c9f4795f.chunk.js",
     "static/media/brows.MP4": "/swiftcertify/static/media/brows.b88edfe97f623311b594.MP4",
     "static/media/news-05.webp": "/swiftcertify/static/media/news-05.014a7dfbc0ee01be944d.webp",
     "static/media/img11.png": "/swiftcertify/static/media/img11.eb6af3a4688a2cb15565.png",
+    "static/media/ss-04.webp": "/swiftcertify/static/media/ss-04.e0cf50cccb4833f2c344.webp",
     "static/media/blog-02.png": "/swiftcertify/static/media/blog-02.557ebcd13ed18fa107e9.png",
     "static/media/img1.png": "/swiftcertify/static/media/img1.b478308ceb1c93a62c2e.png",
     "static/media/img2.png": "/swiftcertify/static/media/img2.08292923c70594c166d1.png",
+    "static/media/hom-logo.png": "/swiftcertify/static/media/hom-logo.5825a862b9112f61589f.png",
     "static/media/blog-04.webp": "/swiftcertify/static/media/blog-04.0b33266620bacd1f2ded.webp",
-    "static/media/img6.png": "/swiftcertify/static/media/img6.d2a6a015f6306a1a73d3.png",
     "static/media/01.jpg": "/swiftcertify/static/media/01.8f529a9fe65368ae2ccb.jpg",
     "static/media/pexels-03.jpeg": "/swiftcertify/static/media/pexels-03.db3c488011e3d5c45c88.jpeg",
     "static/media/pexels-04.jpeg": "/swiftcertify/static/media/pexels-04.65bb6c8c53ece692b327.jpeg",
@@ -22,7 +23,9 @@
     "static/media/02.jpg": "/swiftcertify/static/media/02.00efdfaad41f1e1c04a5.jpg",
     "static/media/blog-img3.jpg": "/swiftcertify/static/media/blog-img3.0604b5d269b805220a77.jpg",
     "static/media/blog-05.webp": "/swiftcertify/static/media/blog-05.9f2982a6e85a05dc7a1c.webp",
+    "static/media/ho-logo.avif": "/swiftcertify/static/media/ho-logo.389f165fa1dc59e006a4.avif",
     "static/media/replace-05.png": "/swiftcertify/static/media/replace-05.108739dd366332ddce86.png",
+    "static/media/ss-06.jpg": "/swiftcertify/static/media/ss-06.df78a09a4877f05f006d.jpg",
     "static/media/res.png": "/swiftcertify/static/media/res.1fcb70f25cdbbc244635.png",
     "static/media/img16.png": "/swiftcertify/static/media/img16.a540d7b324c04ccdcbcb.png",
     "static/media/data.png": "/swiftcertify/static/media/data.4c496d98e2bd3fb7eca1.png",
@@ -35,12 +38,13 @@
     "static/media/visual-img.webp": "/swiftcertify/static/media/visual-img.d0b5ff799510532e3e92.webp",
     "static/media/visual-img2.avif": "/swiftcertify/static/media/visual-img2.625f73578ef96c5e5532.avif",
     "static/media/pexels-06.avif": "/swiftcertify/static/media/pexels-06.8616b47183e53dd8a854.avif",
+    "static/media/ss-02.png": "/swiftcertify/static/media/ss-02.1699e36a2e334d9a7b4d.png",
+    "static/media/ss-03.png": "/swiftcertify/static/media/ss-03.65ad559a079c3f0877b6.png",
     "static/media/news-06.webp": "/swiftcertify/static/media/news-06.a8751d77af47e49d554d.webp",
     "static/media/img3.png": "/swiftcertify/static/media/img3.5515cb79ed7c5c297a5f.png",
     "static/media/banner-pattern.png": "/swiftcertify/static/media/banner-pattern.fdc73793979dbb8dac35.png",
     "static/media/visual-img4.webp": "/swiftcertify/static/media/visual-img4.08109d64661d6eaffccf.webp",
     "static/media/img30.png": "/swiftcertify/static/media/img30.905f73b4310f1e2fdc11.png",
-    "static/media/subs-bg.png": "/swiftcertify/static/media/subs-bg.4a74fa910af6319df2fe.png",
     "static/media/visual-img5.avif": "/swiftcertify/static/media/visual-img5.b70bac44a955d65ca435.avif",
     "static/media/news-02.webp": "/swiftcertify/static/media/news-02.d60669f4c65aa1f7e4e6.webp",
     "static/media/news-04.webp": "/swiftcertify/static/media/news-04.49ac10c69f9b1ad3e52a.webp",
@@ -59,12 +63,12 @@
     "index.html": "/swiftcertify/index.html",
     "static/media/news-03.webp": "/swiftcertify/static/media/news-03.50dcae3366afc7e854bd.webp",
     "static/media/slick.woff": "/swiftcertify/static/media/slick.295183786cd8a1389865.woff",
-    "main.957f6731.css.map": "/swiftcertify/static/css/main.957f6731.css.map",
-    "main.7ac88186.js.map": "/swiftcertify/static/js/main.7ac88186.js.map",
+    "main.221c0290.css.map": "/swiftcertify/static/css/main.221c0290.css.map",
+    "main.91a87bd3.js.map": "/swiftcertify/static/js/main.91a87bd3.js.map",
     "453.c9f4795f.chunk.js.map": "/swiftcertify/static/js/453.c9f4795f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.957f6731.css",
-    "static/js/main.7ac88186.js"
+    "static/css/main.221c0290.css",
+    "static/js/main.91a87bd3.js"
   ]
 }
