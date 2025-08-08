@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/swiftcertify/static/css/main.221c0290.css",
+    "main.css": "/swiftcertify/static/css/main.c22c6bfe.css",
     "main.js": "/swiftcertify/static/js/main.91a87bd3.js",
     "static/js/453.c9f4795f.chunk.js": "/swiftcertify/static/js/453.c9f4795f.chunk.js",
     "static/media/brows.MP4": "/swiftcertify/static/media/brows.b88edfe97f623311b594.MP4",
@@ -63,12 +63,12 @@
     "index.html": "/swiftcertify/index.html",
     "static/media/news-03.webp": "/swiftcertify/static/media/news-03.50dcae3366afc7e854bd.webp",
     "static/media/slick.woff": "/swiftcertify/static/media/slick.295183786cd8a1389865.woff",
-    "main.221c0290.css.map": "/swiftcertify/static/css/main.221c0290.css.map",
+    "main.c22c6bfe.css.map": "/swiftcertify/static/css/main.c22c6bfe.css.map",
     "main.91a87bd3.js.map": "/swiftcertify/static/js/main.91a87bd3.js.map",
     "453.c9f4795f.chunk.js.map": "/swiftcertify/static/js/453.c9f4795f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.221c0290.css",
+    "static/css/main.c22c6bfe.css",
     "static/js/main.91a87bd3.js"
   ]
 }
