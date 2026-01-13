@@ -1,11 +1,15 @@
 {
   "files": {
-    "main.css": "/swiftcertify/static/css/main.c22c6bfe.css",
-    "main.js": "/swiftcertify/static/js/main.91a87bd3.js",
+    "main.css": "/swiftcertify/static/css/main.39b641c8.css",
+    "main.js": "/swiftcertify/static/js/main.3a73f91c.js",
     "static/js/453.c9f4795f.chunk.js": "/swiftcertify/static/js/453.c9f4795f.chunk.js",
     "static/media/brows.MP4": "/swiftcertify/static/media/brows.b88edfe97f623311b594.MP4",
+    "static/media/blog-profile.jpg": "/swiftcertify/static/media/blog-profile.120d84d5a841b502f4c6.jpg",
     "static/media/news-05.webp": "/swiftcertify/static/media/news-05.014a7dfbc0ee01be944d.webp",
+    "static/media/04.webp": "/swiftcertify/static/media/04.0ee2f0d8362ea49e90c0.webp",
+    "static/media/Risk-Man.webp": "/swiftcertify/static/media/Risk-Man.e182f773ca7783031b31.webp",
     "static/media/img11.png": "/swiftcertify/static/media/img11.eb6af3a4688a2cb15565.png",
+    "static/media/Regulatory-Updates.png": "/swiftcertify/static/media/Regulatory-Updates.fb69d66fd2f1159f4470.png",
     "static/media/ss-04.webp": "/swiftcertify/static/media/ss-04.e0cf50cccb4833f2c344.webp",
     "static/media/blog-02.png": "/swiftcertify/static/media/blog-02.557ebcd13ed18fa107e9.png",
     "static/media/img1.png": "/swiftcertify/static/media/img1.b478308ceb1c93a62c2e.png",
@@ -21,6 +25,7 @@
     "static/media/14.jpg": "/swiftcertify/static/media/14.633bffb4f92fdc93f011.jpg",
     "static/media/news-07.png": "/swiftcertify/static/media/news-07.1fc46a3ef0daf3c2ba60.png",
     "static/media/02.jpg": "/swiftcertify/static/media/02.00efdfaad41f1e1c04a5.jpg",
+    "static/media/03.jpg": "/swiftcertify/static/media/03.4f9d769948e5e1c36523.jpg",
     "static/media/blog-img3.jpg": "/swiftcertify/static/media/blog-img3.0604b5d269b805220a77.jpg",
     "static/media/blog-05.webp": "/swiftcertify/static/media/blog-05.9f2982a6e85a05dc7a1c.webp",
     "static/media/ho-logo.avif": "/swiftcertify/static/media/ho-logo.389f165fa1dc59e006a4.avif",
@@ -31,6 +36,7 @@
     "static/media/data.png": "/swiftcertify/static/media/data.4c496d98e2bd3fb7eca1.png",
     "static/media/pro.png": "/swiftcertify/static/media/pro.932f05d83416180a7c7a.png",
     "static/media/blog-01.jpg": "/swiftcertify/static/media/blog-01.e048303c0ad68d974e97.jpg",
+    "static/media/Trend-Analysis.jpg": "/swiftcertify/static/media/Trend-Analysis.d8aa54b1e5d21c7698b4.jpg",
     "static/media/img29.png": "/swiftcertify/static/media/img29.c1aa1f9767190db72c55.png",
     "static/media/pexels-02.webp": "/swiftcertify/static/media/pexels-02.1a6f68f19713f41119a5.webp",
     "static/media/pexels-01.jpeg": "/swiftcertify/static/media/pexels-01.6fc99c0fc89a0593c27d.jpeg",
@@ -42,6 +48,7 @@
     "static/media/ss-03.png": "/swiftcertify/static/media/ss-03.65ad559a079c3f0877b6.png",
     "static/media/news-06.webp": "/swiftcertify/static/media/news-06.a8751d77af47e49d554d.webp",
     "static/media/img3.png": "/swiftcertify/static/media/img3.5515cb79ed7c5c297a5f.png",
+    "static/media/audit-com.webp": "/swiftcertify/static/media/audit-com.321b273bb7f7b62f3b10.webp",
     "static/media/banner-pattern.png": "/swiftcertify/static/media/banner-pattern.fdc73793979dbb8dac35.png",
     "static/media/visual-img4.webp": "/swiftcertify/static/media/visual-img4.08109d64661d6eaffccf.webp",
     "static/media/img30.png": "/swiftcertify/static/media/img30.905f73b4310f1e2fdc11.png",
@@ -57,18 +64,20 @@
     "static/media/news-08.webp": "/swiftcertify/static/media/news-08.50fce9b5168329f04714.webp",
     "static/media/news-01.webp": "/swiftcertify/static/media/news-01.5c6d66573bd92df071ba.webp",
     "static/media/news-10.webp": "/swiftcertify/static/media/news-10.0246e8ec8ca9dd291283.webp",
+    "static/media/blog-profile-03.avif": "/swiftcertify/static/media/blog-profile-03.fbab0fe5bd19f25ff96e.avif",
     "static/media/slick.svg": "/swiftcertify/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/swiftcertify/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/swiftcertify/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/swiftcertify/index.html",
+    "static/media/GRC-Blog-Header.webp": "/swiftcertify/static/media/GRC-Blog-Header.06d1ea35038eb892c1ad.webp",
     "static/media/news-03.webp": "/swiftcertify/static/media/news-03.50dcae3366afc7e854bd.webp",
     "static/media/slick.woff": "/swiftcertify/static/media/slick.295183786cd8a1389865.woff",
-    "main.c22c6bfe.css.map": "/swiftcertify/static/css/main.c22c6bfe.css.map",
-    "main.91a87bd3.js.map": "/swiftcertify/static/js/main.91a87bd3.js.map",
+    "main.39b641c8.css.map": "/swiftcertify/static/css/main.39b641c8.css.map",
+    "main.3a73f91c.js.map": "/swiftcertify/static/js/main.3a73f91c.js.map",
     "453.c9f4795f.chunk.js.map": "/swiftcertify/static/js/453.c9f4795f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c22c6bfe.css",
-    "static/js/main.91a87bd3.js"
+    "static/css/main.39b641c8.css",
+    "static/js/main.3a73f91c.js"
   ]
 }
