@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/swiftcertify/static/css/main.39b641c8.css",
-    "main.js": "/swiftcertify/static/js/main.3a73f91c.js",
+    "main.css": "/swiftcertify/static/css/main.bba7ee3b.css",
+    "main.js": "/swiftcertify/static/js/main.851d527f.js",
     "static/js/453.c9f4795f.chunk.js": "/swiftcertify/static/js/453.c9f4795f.chunk.js",
     "static/media/brows.MP4": "/swiftcertify/static/media/brows.b88edfe97f623311b594.MP4",
     "static/media/blog-profile.jpg": "/swiftcertify/static/media/blog-profile.120d84d5a841b502f4c6.jpg",
@@ -72,12 +72,12 @@
     "static/media/GRC-Blog-Header.webp": "/swiftcertify/static/media/GRC-Blog-Header.06d1ea35038eb892c1ad.webp",
     "static/media/news-03.webp": "/swiftcertify/static/media/news-03.50dcae3366afc7e854bd.webp",
     "static/media/slick.woff": "/swiftcertify/static/media/slick.295183786cd8a1389865.woff",
-    "main.39b641c8.css.map": "/swiftcertify/static/css/main.39b641c8.css.map",
-    "main.3a73f91c.js.map": "/swiftcertify/static/js/main.3a73f91c.js.map",
+    "main.bba7ee3b.css.map": "/swiftcertify/static/css/main.bba7ee3b.css.map",
+    "main.851d527f.js.map": "/swiftcertify/static/js/main.851d527f.js.map",
     "453.c9f4795f.chunk.js.map": "/swiftcertify/static/js/453.c9f4795f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.39b641c8.css",
-    "static/js/main.3a73f91c.js"
+    "static/css/main.bba7ee3b.css",
+    "static/js/main.851d527f.js"
   ]
 }
